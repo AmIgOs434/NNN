@@ -11,6 +11,9 @@ body {
 .title_fl{
     color: #FFFFFF;
 }
+.d_vn{
+  display: none;
+}
 .text1_fl{
     /* Разработка проектной документации в сжатый срок */
 font-family: 'Involve';
@@ -1955,7 +1958,7 @@ top:13%
 }
 .text_img_nso{
   width: 200px;
-  height: 200px;
+  height: 240px;
   margin-bottom: 20px;
   object-fit: cover;
 }
@@ -3030,7 +3033,7 @@ background: #343434;
 }
 .card_item{
   width: 46%;
-  height: 370px;
+  height: 400px;
   z-index: 10000;
   margin-right: 10px;
 }
@@ -5115,7 +5118,7 @@ font-size: 32px;
     font-size: 32px;
       }
   .text_img_nso{
-    height: 120px;
+    height: 160px;
     width: 120px;
   }
   .text_title_nso{

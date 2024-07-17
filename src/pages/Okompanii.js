@@ -18,7 +18,7 @@ import o_komp_three4 from '../img/image/44.jpeg'
 
 import o_komp_for from '../img/image/o_komp_for.jpeg'
 import $ from 'jquery'
-import director from '../img/image/direktor.jpeg'
+import director from '../img/image/director.jpeg'
 import { useState } from "react";
 import { EXPERTIZA_ROUTER, KONTACTS_ROUTE, OOMPANII_ROUTER, POJECTS_ROUTER, POJECTS_SHABLON_ROUTER, USLUGI_ROUTER } from "../utils/consts.js";
 function Okompanii() {
